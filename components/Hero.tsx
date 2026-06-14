@@ -394,7 +394,7 @@ export default function HomePage() {
               </svg>
             </Link>
             <a
-              href="mailto:hello@xtyletechnology.com"
+              href="mailto:xtyletechnology@gmail.com.com"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full border border-white/10 text-white/70 font-medium text-sm hover:border-white/30 hover:text-white transition-all duration-200"
             >
               <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
