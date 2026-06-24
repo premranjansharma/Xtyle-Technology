@@ -433,9 +433,12 @@ export default function HomePage() {
             </div>
           </Link>
 
-          <p className="text-slate-600 text-xs text-center">
-            © {new Date().getFullYear()} XTYLE TECHNOLOGY · Darbhanga, Bihar
-          </p>
+        <p className="text-slate-600 text-xs text-center">
+  © {new Date().getFullYear()} Mithila Kriti · Darbhanga, Bihar
+</p>
+<p className="text-slate-600 text-xs text-center mt-1">
+  Registration No: BR-10-0073293
+</p>
 
           <div className="flex gap-5">
             {["#services", "#about", "#contact"].map((h) => (
